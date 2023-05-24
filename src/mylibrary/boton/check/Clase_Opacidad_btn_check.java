@@ -33,9 +33,6 @@ public class Clase_Opacidad_btn_check {
            tipo_salida = 2 ;
         
         }
-        
-        // MENSAJE LIBRERIA 
-        System.out.println("Load Library Simon : Clase_Opacidad / 11-may-2022" );
 		
 	}
 	

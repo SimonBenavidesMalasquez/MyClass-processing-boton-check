@@ -25,9 +25,6 @@ public class ToolTipText_btn_check {
         // OPACIDAD CON ACTIVADOR : 
         opacidad_toolTipText = new Clase_Opacidad_btn_check("150-255");
 		
-        // MENSAJE LIBRERIA 
-        System.out.println("Load Library Simon : Clase ToolTipText / 14-may-2022 / 0-03" );
-		
 	}
 	
     public void show(){                            

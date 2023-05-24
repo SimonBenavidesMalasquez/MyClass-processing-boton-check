@@ -53,8 +53,6 @@ public class Clase_Crea_Boton_Check{
               opacidad_helpPosition = new Clase_Opacidad_btn_check("0-250");
               toolTipText           = new ToolTipText_btn_check(app);
               
-              
-
           }
 
           public void show(){                                          
